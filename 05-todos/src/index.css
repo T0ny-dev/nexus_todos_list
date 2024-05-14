@@ -20,9 +20,7 @@ body {
   place-items: center;
   min-width: 100%;
   min-height: 100%;
-  background-image: linear-gradient(to left bottom, #8ce1bf, #5dd5ca, #22c7d6, #00b7e0, #00a5e3);
-
-}
+  background-image: #0A0A0A;
 
 h1 {
   font-size: 3.2em;
@@ -92,8 +90,8 @@ label {
 }
 
 .save {
-  background-color: #914BF2;
-  color: #fff;
+  background-color: #e2ff69;
+  color: #0a0a0a;
   font-weight: bold;
   padding: 15px;
 }
